@@ -1,0 +1,2 @@
+# SpriterQC
+Nothing
